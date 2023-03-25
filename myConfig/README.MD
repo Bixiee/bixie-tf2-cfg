@@ -6,8 +6,8 @@ TODO:
 
 > - [ ] Finish class cfgs (/ClassCFGs/)
 
-> - [ ] bind voicerecord to something else
-  
+> - [x] bind voicerecord
+
 > - [ ] download tr_walkway and maybe jump maps
 
-> - [ ] maybe try out some other graphic configs
+> - [ ] bind noclip to something (not V)
