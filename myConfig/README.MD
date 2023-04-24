@@ -3,7 +3,7 @@
 
  
  
- ## I recommend, before actually using the config, that you go to the misc.cfg file and change some things (particularly sensitivity) to be more to your liking
+ #### I recommend, before actually using the config, that you go to the misc.cfg file and change some things (particularly sensitivity) to be more to your liking
 
 TODO: 
 
